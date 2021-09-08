@@ -13,3 +13,6 @@ Before
 After
 
 ![](https://raw.githubusercontent.com/X-C3LL/go16_strip/main/Captura%20de%20pantalla%20de%202021-09-08%2020-54-15.png)
+
+# Author
+Juan Manuel Fernández ([@TheXC3LL](https://twitter.com/TheXC3LL))
