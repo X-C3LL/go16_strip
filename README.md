@@ -3,6 +3,8 @@ Normally I use the script [go_strip.py](https://github.com/zlowram/re-go-tooling
 
 Keep in mind that there are more places where you need to remove info **;)**
 
+*Note: Building with -trimpath also helps x'D*
+
 # Example
 Here I use [chisel](https://github.com/jpillora/chisel) as example:
 
