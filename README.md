@@ -7,6 +7,9 @@ Keep in mind that there are more places where you need to remove info **;)**
 Here I use [chisel](https://github.com/jpillora/chisel) as example:
 
 Before
+
 ![](https://raw.githubusercontent.com/X-C3LL/go16_strip/main/Captura%20de%20pantalla%20de%202021-09-08%2020-51-55.png)
+
 After
+
 ![](https://raw.githubusercontent.com/X-C3LL/go16_strip/main/Captura%20de%20pantalla%20de%202021-09-08%2020-54-15.png)
